@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="headerStyle" parent="android:Widget.Holo.Light.TextView">
+
+        <!-- <item name="android:background">@android:drawable/title_bar_tall</item> -->
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="fieldSetStyle">
+        <item name="android:background">@android:drawable/dialog_holo_light_frame</item>
+    </style>
+    <style name="LoginFormContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+</resources>

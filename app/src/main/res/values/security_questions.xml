@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions_array">
+		<item>What was your childhood nickname?</item>
+		<item>In what city did you meet your spouse/significant other?</item>
+		<item>What is the name of your favorite childhood friend?</item>
+		<item>What is the middle name of your oldest child?</item>
+		<item>What is your oldest cousin\'s first and last name?</item>
+		<item>What was the name of your first stuffed animal?</item>
+		<item>In what city or town did your mother and father meet?</item>
+		<item>Where were you when you had your first kiss?</item>
+		<item>What is the first name of the boy or girl that you first kissed?</item>
+		<item>What is your maternal grandmother\'s maiden name?</item>
+		<item>In what city or town was your first job?</item>
+    </string-array>
+</resources>

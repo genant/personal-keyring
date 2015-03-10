@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	<item
+	    android:id="@+id/edit_action_save"
+	    android:title="@string/action_save"
+	    android:icon="@drawable/ic_action_accept"
+	    android:showAsAction="always"/>
+	<item
+	    android:id="@+id/edit_action_cancel"
+	    android:title="@string/action_cancel"
+	    android:icon="@drawable/ic_action_cancel"
+	    android:showAsAction="always"/>
+		
+</menu>
+<!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/menu/edit_menu.xml -->

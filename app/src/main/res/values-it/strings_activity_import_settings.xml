@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="title_activity_import_settings">Opzioni</string>
+
+    <!-- Strings related to Settings -->
+
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Generale</string>
+    <string name="pref_clean_before_start">Rimozione chiavi</string>
+    <string name="pref_clean_before_start_recommendations">Rimuove tutte le chiavi esistenti nel database prima di importare il nuovo file.</string>
+    <string name="pref_duplicate_key_action">Voci già presenti</string>
+
+    <string-array name="pref_duplicate_key_options">
+        <item>Sovrascrivi</item>
+        <item>Unisci</item>
+        <item>Ignora e passa al successivo</item>
+    </string-array>
+</resources>

@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SaveFileActivity" >
+
+    <LinearLayout
+        android:id="@+id/save_file_output_layout"
+        style="@style/fieldSetStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin" >
+
+        <EditText
+            android:id="@+id/save_file_edit_filename"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/edit_filename_hint" />
+
+        <CheckBox
+            android:id="@+id/save_file_encrypt_option"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/encrypt_option" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/save_file_list_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_below="@id/save_file_output_layout"
+        android:text="@string/file_list_label" />
+
+    <ListView
+        android:id="@+id/save_file_list"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/save_file_list_label" />
+
+    <TextView
+        android:id="@+id/save_file_empty_list_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/save_file_list_label"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/folder_empty"
+        android:visibility="gone" >
+    </TextView>
+
+</RelativeLayout><!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/layout/activity_save_file.xml -->

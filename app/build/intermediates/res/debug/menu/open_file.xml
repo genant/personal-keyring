@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item
+	    android:id="@+id/open_file_action_cancel"
+	    android:title="@string/action_cancel"
+	    android:icon="@drawable/ic_action_cancel"
+	    android:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/open_file_action_settings"
+        android:orderInCategory="100"
+	    android:icon="@drawable/ic_action_settings"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"/>
+
+</menu>
+<!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/menu/open_file.xml -->

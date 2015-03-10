@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/list_row_vertical_margin"
+    android:paddingLeft="@dimen/list_row_horizontal_margin"
+    android:paddingRight="@dimen/list_row_horizontal_margin"
+    android:paddingTop="@dimen/list_row_vertical_margin" >
+
+    <ImageView
+        android:id="@+id/open_file_row_icon"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentLeft="true"
+        android:paddingRight="5dp" >
+    </ImageView>
+
+    <TextView
+            android:id="@+id/open_file_row_name"
+            style="@android:style/TextAppearance.DeviceDefault"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/open_file_row_icon"
+        	android:layout_toRightOf="@id/open_file_row_icon" />
+    <TextView
+            android:id="@+id/open_file_row_attributes"
+            style="@android:style/TextAppearance.Small"
+            android:singleLine="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/open_file_row_name"
+        	android:layout_toRightOf="@id/open_file_row_icon" />
+    <TextView
+            android:id="@+id/open_file_row_size"
+            style="@android:style/TextAppearance.Small"
+            android:singleLine="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/open_file_row_name"
+        	android:layout_alignRight="@id/open_file_row_name"
+        	 />
+    
+</RelativeLayout>

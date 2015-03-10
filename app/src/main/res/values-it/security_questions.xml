@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="security_questions_array">
+        <item>Qual era il tuo soprannome di infanzia?</item>
+        <item>In quale città hai conosciuto il tuo coniuge / compagno?</item>
+        <item>Qual è il nome del tuo amico d\'infanzia preferito?</item>
+        <item>Qual è il secondo nome di tuo figlio maggiore?</item>
+        <item>Qual è il nome e cognome del tuo cugino più vecchio?</item>
+        <item>Qual era il nome del tuo primo animale di pezza?</item>
+        <item>In quale città o paese tua madre e tuo padre si incontrarono?</item>
+        <item>Dov\'eri quando hai avuto il tuo primo bacio?</item>
+        <item>Qual è il nome del ragazzo o la ragazza che del tuo primo bacio?</item>
+        <item>Qual è il nome da nubile di tua nonna materna?</item>
+        <item>In quale città o paese hai trovato il tuo primo lavoro?</item>
+    </string-array>
+
+</resources>

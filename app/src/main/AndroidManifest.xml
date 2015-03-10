@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+** Copyright 2010, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License. 
+*/
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="it.personal.keyring"
+    android:versionCode="3"
+    android:versionName="2.6" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="it.personal.keyring.KeyringApp"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo.Light" >
+
+        <!-- The default activity of the app; displays search results. -->
+        <activity
+            android:name="it.personal.keyring.ListKeyActivity"
+            android:label="@string/title_activity_list"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!-- Receives the search request. -->
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+                <!-- No category needed, because the Intent will specify this class component -->
+            </intent-filter>
+
+            <!-- Points to searchable meta data. -->
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="it.personal.keyring.EditKeyActivity"
+            android:label="@string/title_activity_edit_key"
+            android:parentActivityName="it.personal.keyring.DisplayKeyActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="it.personal.keyring.DisplayKeyActivity" />
+        </activity>
+        <activity
+            android:name="it.personal.keyring.InsertKeyActivity"
+            android:label="@string/title_activity_insert_key"
+            android:parentActivityName="it.personal.keyring.ListKeyActivity" >
+        </activity>
+        <activity
+            android:name="it.personal.keyring.ConfirmLoginActivity"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="adjustResize|stateVisible" >
+        </activity>
+        <activity
+            android:name="it.personal.keyring.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="adjustResize|stateVisible" >
+        </activity>
+        
+        <!-- Displays the definition of a word. -->
+        <activity 
+            android:name="it.personal.keyring.DisplayKeyActivity"
+            android:label="@string/title_activity_display_key" >
+        </activity>
+        <!-- Provides search suggestions for words and their definitions. -->
+        <provider
+            android:name="it.personal.keyring.KeyringProvider"
+            android:authorities="it.personal.keyring.KeysProvider" />
+
+        <!-- Points to searchable activity so the whole app can invoke search. -->
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value=".SearchableDictionary" />
+
+        <activity
+            android:name="it.personal.keyring.SetupActivity"
+            android:label="@string/title_activity_setup" >
+        </activity>
+        <activity
+            android:name="it.personal.keyring.PasswordRecover"
+            android:label="@string/title_activity_password_recover" >
+        </activity>
+        <activity
+            android:name="it.personal.keyring.OpenFileActivity"
+            android:label="@string/title_activity_open_file" >
+        </activity>
+        <activity
+            android:name="it.personal.keyring.ImportSettingsActivity"
+            android:label="@string/title_activity_import_settings"
+            android:parentActivityName="it.personal.keyring.OpenFileActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="it.personal.keyring.OpenFileActivity" />
+        </activity>
+        <activity
+            android:name="it.personal.keyring.SaveFileActivity"
+            android:label="@string/title_activity_save_file" >
+        </activity>
+        <activity
+            android:name="it.personal.keyring.PasswordEncryptActivity"
+            android:label="@string/title_activity_password_request" >
+        </activity>
+        <activity
+            android:name="it.personal.keyring.PasswordRequestActivity"
+            android:label="@string/title_activity_password_request" >
+        </activity>
+    </application>
+
+</manifest>

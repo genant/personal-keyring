@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <array name="letter_tile_colors">
+        <item>#f16364</item>
+        <item>#f58559</item>
+        <item>#f9a43e</item>
+        <item>#e4c62e</item>
+        <item>#67bf74</item>
+        <item>#59a2be</item>
+        <item>#2093cd</item>
+        <item>#ad62a7</item>
+    </array>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/strings_activity_import_settings.xml -->
+    <eat-comment />
+
+    <string-array name="pref_duplicate_key_option_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="pref_duplicate_key_options">
+        <item>Override</item>
+        <item>Merge</item>
+        <item>Ignore</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/security_questions.xml -->
+    <eat-comment />
+
+    <string-array name="security_questions_array">
+        <item>What was your childhood nickname?</item>
+        <item>In what city did you meet your spouse/significant other?</item>
+        <item>What is the name of your favorite childhood friend?</item>
+        <item>What is the middle name of your oldest child?</item>
+        <item>What is your oldest cousin\'s first and last name?</item>
+        <item>What was the name of your first stuffed animal?</item>
+        <item>In what city or town did your mother and father meet?</item>
+        <item>Where were you when you had your first kiss?</item>
+        <item>What is the first name of the boy or girl that you first kissed?</item>
+        <item>What is your maternal grandmother\'s maiden name?</item>
+        <item>In what city or town was your first job?</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="letter_tile_size">60dp</dimen>
+    <dimen name="list_row_horizontal_margin">16dp</dimen>
+    <dimen name="list_row_vertical_margin">8dp</dimen>
+    <dimen name="tile_letter_font_size">33sp</dimen>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <plurals name="browse_results">
+        <item quantity="one">%1$d item in your keyring </item>
+        <item quantity="other">%1$d items are stored in your keyring</item>
+    </plurals>
+    <plurals name="search_results">
+        <item quantity="one">%1$d result for \"%2$s\": </item>
+        <item quantity="other">%1$d results for \"%2$s\": </item>
+    </plurals>
+
+    <string name="action_cancel">Cancel</string>
+    <string name="action_copy_password">Copy password</string>
+    <string name="action_forgot_password">Recover lost passcode</string>
+    <string name="action_ok">OK</string>
+    <string name="action_save">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_sign_in_register"><b>Sign in</b></string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="add_new">Add new</string>
+    <string name="answer_field">Type your answer</string>
+    <string name="answer_not_match">The answer do not match</string>
+    <string name="app_name">Personal keyring</string>
+    <string name="auth_mode">Authentication mode:</string>
+    <string name="auth_mode_password">Password</string>
+    <string name="auth_mode_pin">PIN</string>
+    <string name="change_password">Change passcode</string>
+    <string name="change_password_succeed">Password changed successfully</string>
+    <string name="confirm_button">OK</string>
+    <string name="confirm_encrypt_password">Confirm password</string>
+    <string name="confirm_password_field">Confirm passcode</string>
+    <string name="delete_word">Remove</string>
+    <string name="deleting_message">This key will be deleted</string>
+    <string name="deleting_title">Confirm delete</string>
+    <string name="display_password_message">Your passcode is \"%s\"</string>
+    <string name="edit_filename_hint">Filename</string>
+    <string name="edit_name_hint">Key name</string>
+    <string name="edit_note_hint">Notes</string>
+    <string name="edit_password_hint">Password</string>
+    <string name="edit_username_hint">Username</string>
+    <string name="edit_word">Edit</string>
+    <string name="encrypt_option">Protect exported keys</string>
+    <string name="encrypt_password">Password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This passcode is incorrect</string>
+    <string name="error_invalid_password">This passcode is too short</string>
+    <string name="export_xml">Export to file</string>
+    <string name="external_storage_not_found">External storage not mounted or unavailable</string>
+    <string name="external_storage_read_only">External storage is read only!</string>
+    <string name="file_list_label"><b>Choose an existing files as an alternative</b>:</string>
+    <string name="folder_empty">This folder is empty</string>
+    <string name="import_xml">Import from file</string>
+    <string name="invalid_decrypt_pwd">Unable to decipher the saved password of one or more items in the chosen file, have you typed the right password?</string>
+    <string name="invalid_master_key">Unable to decipher the saved password, please close the application and try again!</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="login_progress_signing_in">Signing in…</string>
+    <string name="logon_info_text">To access the list of keys you must enter the passcode, in case you\'ve forgotten, you can use the recovery procedure <a href="#">Lost passcode</a>.</string>
+    <string name="lost_password_text"><a href="#">Lost passcode?</a></string>
+    <string name="menu_search">Search</string>
+    <string name="no_results">No results found for \"%s\"</string>
+    <string name="page_question_title">Please answer at least 2 of these questions</string>
+    <string name="page_setup_question_title">Please answer each security question. In case you forget the passcode, to unlock the access, you will be prompted to answer correctly at least 2 of these questions</string>
+    <string name="password_activity_info">Please fill the fields below with a password to protect the exported file</string>
+    <string name="password_field">Type a passcode</string>
+    <string name="password_request_activity_info">Type the password used to encrypt the file</string>
+    <string name="passwords_not_match">The passcodes do not match</string>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/strings_activity_import_settings.xml -->
+    <eat-comment />
+
+    <string name="pref_clean_before_start">Remove keys before</string>
+    <string name="pref_clean_before_start_recommendations">Remove existing keys before import from new file.</string>
+    <string name="pref_duplicate_key_action">Duplicated key names</string>
+    <string name="pref_header_general">General</string>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="prompt_password">Passcode</string>
+    <string name="question_1_label">Question 1:</string>
+    <string name="question_2_label">Question 3:</string>
+    <string name="question_3_label">Question 3:</string>
+    <string name="quit_app">Close application</string>
+    <string name="search_hint">Search the key</string>
+    <string name="search_label">Keys</string>
+    <string name="settings_description">Definitions of words</string>
+    <string name="setup_button_next_text">Next ></string>
+    <string name="setup_next_button">Next</string>
+    <string name="setup_page_password">Please take a few seconds in this wizard to initialize the settings required to access the list of your keys. You will be asked for some personal information necessary to restore the access code in case of loss.</string>
+    <string name="title_activity_display_key">View key details</string>
+    <string name="title_activity_edit_key">Edit key</string>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/strings_activity_import_settings.xml -->
+    <eat-comment />
+
+    <string name="title_activity_import_settings">Settings</string>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="title_activity_insert_key">Insert new personal key</string>
+    <string name="title_activity_list">Keyring list</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_open_file">Open File</string>
+    <string name="title_activity_password_recover">Passcode recover</string>
+    <string name="title_activity_password_request">Encrypting password</string>
+    <string name="title_activity_save_file">Save As</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="title_section1">Passcodes</string>
+    <string name="title_section2">Security questions</string>
+    <string name="wellcome">Please enter in the field below your Passcode.</string>
+    <string name="wellcome_instructions">Your keyring database is empty. Use the add button to create a new entry or
+        import the keys from an existing file.</string>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="LoginFormContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="fieldSetStyle">
+        <item name="android:background">@android:drawable/dialog_holo_light_frame</item>
+    </style>
+
+    <style name="headerStyle" parent="android:Widget.Holo.Light.TextView">
+
+        <!-- <item name="android:background">@android:drawable/title_bar_tall</item> -->
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values-it/strings_activity_import_settings.xml -->
+    <eat-comment />
+
+    <string-array name="pref_duplicate_key_options">
+        <item>Sovrascrivi</item>
+        <item>Unisci</item>
+        <item>Ignora e passa al successivo</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values-it/security_questions.xml -->
+    <eat-comment />
+
+    <string-array name="security_questions_array">
+        <item>Qual era il tuo soprannome di infanzia?</item>
+        <item>In quale città hai conosciuto il tuo coniuge / compagno?</item>
+        <item>Qual è il nome del tuo amico d\'infanzia preferito?</item>
+        <item>Qual è il secondo nome di tuo figlio maggiore?</item>
+        <item>Qual è il nome e cognome del tuo cugino più vecchio?</item>
+        <item>Qual era il nome del tuo primo animale di pezza?</item>
+        <item>In quale città o paese tua madre e tuo padre si incontrarono?</item>
+        <item>Dov\'eri quando hai avuto il tuo primo bacio?</item>
+        <item>Qual è il nome del ragazzo o la ragazza che del tuo primo bacio?</item>
+        <item>Qual è il nome da nubile di tua nonna materna?</item>
+        <item>In quale città o paese hai trovato il tuo primo lavoro?</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values-it/strings.xml -->
+    <eat-comment />
+
+    <plurals name="browse_results">
+        <item quantity="one">%1$d chiave presente nel portachiavi </item>
+        <item quantity="other">%1$d chiavi memorizzate nel portachiavi</item>
+    </plurals>
+    <plurals name="search_results">
+        <item quantity="one">Trovata %1$d chiace con \"%2$s\": </item>
+        <item quantity="other">Trovate %1$d chiavi con \"%2$s\": </item>
+    </plurals>
+
+    <string name="action_cancel">Annulla</string>
+    <string name="action_copy_password">Copia password</string>
+    <string name="action_forgot_password">Passcode dimenticato</string>
+    <string name="action_save">Conferma</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="action_share">Share</string>
+    <string name="action_sign_in_register"><b>Accedi</b></string>
+    <string name="action_sign_in_short">Accedi</string>
+    <string name="add_new">Aggiungi</string>
+    <string name="answer_field">Specificare una risposta</string>
+    <string name="answer_not_match">La risposta non è esatta</string>
+    <string name="auth_mode">Modalità di autenticazione:</string>
+    <string name="auth_mode_password">Password</string>
+    <string name="auth_mode_pin">PIN</string>
+    <string name="change_password">Modifica passcode</string>
+    <string name="change_password_succeed">La password è stata modificata correttamente</string>
+    <string name="confirm_button">OK</string>
+    <string name="confirm_encrypt_password">Conferma password</string>
+    <string name="confirm_password_field">Conferma passcode</string>
+    <string name="delete_word">Elimina</string>
+    <string name="deleting_message">Questa chiave sarà rimossa definitivamente</string>
+    <string name="deleting_title">Conferma eliminazione</string>
+    <string name="display_password_message">Il tuo passcode è \"%s\"</string>
+    <string name="edit_filename_hint">Nome dile</string>
+    <string name="edit_name_hint">Nome chiave</string>
+    <string name="edit_note_hint">Note</string>
+    <string name="edit_password_hint">Password</string>
+    <string name="edit_username_hint">Username</string>
+    <string name="edit_word">Modifica</string>
+    <string name="encrypt_option">Proteggi le password esportate</string>
+    <string name="encrypt_password">Password</string>
+    <string name="error_field_required">Questo campo è obbligatorio</string>
+    <string name="error_incorrect_password">Passcode non valido</string>
+    <string name="error_invalid_password">Il passcode è troppo breve</string>
+    <string name="export_xml">Esporta</string>
+    <string name="external_storage_not_found">La scheda SD non è presente o non collegata</string>
+    <string name="external_storage_read_only">La scheda SD è in sola lettura!</string>
+    <string name="file_list_label"><b>In alternativa seleziona un file esistente</b>:</string>
+    <string name="folder_empty">Questa cartella è vuota</string>
+    <string name="import_xml">Importa da file</string>
+    <string name="invalid_decrypt_pwd">Impossibile decifrare la password di una o più voci memorizzare nel file selezionato, hai indicato la stessa password utilizzata per cifrare il file?</string>
+    <string name="invalid_master_key">Impossibile decriptare la password di questa chiave, riprovare rieseguendo la login!</string>
+    <string name="invalid_password">Password non valida</string>
+    <string name="login_progress_signing_in">Accesso in corso…</string>
+    <string name="logon_info_text">Per accedere all\'elenco delle chiavi è necessario digitare il passcode, nel caso in cui lo avessi dimenticato puoi utilizzare la procedura di recupero passcode utilizzando il comando <a href="#">Passcode dimenticato</a>.</string>
+    <string name="lost_password_text"><a href="#">Passcode dimenticato?</a></string>
+    <string name="menu_search">Cerca</string>
+    <string name="no_results">Nessuna chiave corrispondente a: \"%s\"</string>
+    <string name="page_question_title">Per favore indica almeno 2 risposte alle domande seguenti</string>
+    <string name="page_setup_question_title">Per fafore indica una risposta per ogni domanda. Nel caso in cui dovessi dimenticare il tuo passcode, la procedura di sblocco ti chiederà di rispondere correttamente ad almeno 2 delle domande scelte.</string>
+    <string name="password_activity_info">Compila i campi seguenti con la password da utilizzare per proteggere le chiavi esportate nel file</string>
+    <string name="password_field">Inserisci un passcode</string>
+    <string name="password_request_activity_info">Inserisci la password per decifrare il file</string>
+    <string name="passwords_not_match">I due passcode non coincidono</string>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values-it/strings_activity_import_settings.xml -->
+    <eat-comment />
+
+    <string name="pref_clean_before_start">Rimozione chiavi</string>
+    <string name="pref_clean_before_start_recommendations">Rimuove tutte le chiavi esistenti nel database prima di importare il nuovo file.</string>
+    <string name="pref_duplicate_key_action">Voci già presenti</string>
+    <string name="pref_header_general">Generale</string>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values-it/strings.xml -->
+    <eat-comment />
+
+    <string name="prompt_password">Passcode</string>
+    <string name="question_1_label">Domanda 1:</string>
+    <string name="question_2_label">Domanda 2:</string>
+    <string name="question_3_label">Domanda 3:</string>
+    <string name="quit_app">Esci</string>
+    <string name="search_hint">Ricerca chiavi</string>
+    <string name="search_label">Chiavi</string>
+    <string name="settings_description">Impostazioni della ricerca</string>
+    <string name="setup_button_next_text">Avanti ></string>
+    <string name="setup_next_button">Avanti</string>
+    <string name="setup_page_password">In questa breve procedura guidata, ti verranno richiesti il codice di accesso a questa applicazione (Passcode) e alcune domande e risposte personali. Seleziona le domande più adatte a te perché ti verranno riproposte durante una eventuale procedura sblocco.</string>
+    <string name="title_activity_display_key">Dettagli</string>
+    <string name="title_activity_edit_key">Modifica</string>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values-it/strings_activity_import_settings.xml -->
+    <eat-comment />
+
+    <string name="title_activity_import_settings">Opzioni</string>
+    <!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/values-it/strings.xml -->
+    <eat-comment />
+
+    <string name="title_activity_insert_key">Nuova chiave</string>
+    <string name="title_activity_list">Elenco chiavi</string>
+    <string name="title_activity_login">Accesso</string>
+    <string name="title_activity_open_file">Apri file</string>
+    <string name="title_activity_password_recover">Recupero passcode</string>
+    <string name="title_activity_password_request">Crittografia password</string>
+    <string name="title_activity_save_file">Salva con nome</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="title_section1">Passcode</string>
+    <string name="title_section2">Domande segrete</string>
+    <string name="wellcome">Inserisci il tuo Passcode nel campo seguente.</string>
+    <string name="wellcome_instructions">Il tuo portachiavi è vuoto, usa il pulsante Aggiungi per creare una nuova chiave 
+    oppure importa le chiavi da un file esistente.</string>
+
+</resources>

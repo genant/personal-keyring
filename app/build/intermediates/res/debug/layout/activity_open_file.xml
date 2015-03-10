@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OpenFileActivity" >
+
+    <ListView
+        android:id="@+id/open_file_list"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/open_file_empty_list_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/folder_empty"
+        android:visibility="gone" >
+
+    </TextView>
+</RelativeLayout>
+<!-- From: file:/C:/Users/Antonello/java/PersonalKeyring2/app/src/main/res/layout/activity_open_file.xml -->

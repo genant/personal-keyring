@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- The name of the application. -->
+    <string name="app_name">Personal keyring</string>
+
+    <!-- ListKeyActivity -->
+    <string name="title_activity_list">Keyring list</string>
+    <string name="wellcome_instructions">Your keyring database is empty. Use the add button to create a new entry or
+        import the keys from an existing file.</string>
+    <string name="menu_search">Search</string>
+    <string name="add_new">Add new</string>
+    <string name="action_share">Share</string>
+    <string name="import_xml">Import from file</string>
+    <string name="export_xml">Export to file</string>
+    <string name="quit_app">Close application</string>
+    <string name="search_label">Keys</string>
+    <string name="search_hint">Search the key</string>
+
+    <!-- The description that will show up in the search settings for this source. -->
+    <string name="settings_description">Definitions of words</string>
+
+    <!-- Shown above search results when we receive a search request. -->
+    <plurals name="search_results">
+        <item quantity="one">%1$d result for \"%2$s\": </item>
+        <item quantity="other">%1$d results for \"%2$s\": </item>
+    </plurals>
+
+    <!-- Shown above results count when we show the entire list. -->
+    <plurals name="browse_results">
+        <item quantity="one">%1$d item in your keyring </item>
+        <item quantity="other">%1$d items are stored in your keyring</item>
+    </plurals>
+
+    <!-- Search failure message. -->
+    <string name="no_results">No results found for \"%s\"</string>
+
+    <!-- ListKeyActivity -->
+
+
+    <!-- Strings related to login -->
+    <string name="wellcome">Please enter in the field below your Passcode.</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_password">Passcode</string>
+    <string name="action_sign_in_register"><b>Sign in</b></string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_forgot_password">Recover lost passcode</string>
+    <string name="login_progress_signing_in">Signing in&#8230;</string>
+    <string name="error_invalid_password">This passcode is too short</string>
+    <string name="error_incorrect_password">This passcode is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="lost_password_text"><a href="#">Lost passcode?</a></string>
+
+    <!-- Insert/Display/EditKeyActivity -->
+    <string name="title_activity_edit_key">Edit key</string>
+    <string name="title_activity_insert_key">Insert new personal key</string>
+    <string name="title_activity_display_key">View key details</string>
+    <string name="edit_word">Edit</string>
+    <string name="delete_word">Remove</string>
+    <string name="edit_name_hint">Key name</string>
+    <string name="edit_note_hint">Notes</string>
+    <string name="edit_username_hint">Username</string>
+    <string name="edit_password_hint">Password</string>
+    <string name="action_ok">OK</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="deleting_title">Confirm delete</string>
+    <string name="deleting_message">This key will be deleted</string>
+    <string name="action_copy_password">Copy password</string>
+    <string name="invalid_master_key">Unable to decipher the saved password, please close the application and try again!</string>
+    <string name="invalid_decrypt_pwd">Unable to decipher the saved password of one or more items in the chosen file, have you typed the right password?</string>
+    
+    <!-- Setup -->
+    <string name="password_field">Type a passcode</string>
+    <string name="confirm_password_field">Confirm passcode</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Passcodes</string>
+    <string name="title_section2">Security questions</string>
+    <string name="question_1_label">Question 1:</string>
+    <string name="question_2_label">Question 3:</string>
+    <string name="question_3_label">Question 3:</string>
+    <string name="answer_field">Type your answer</string>
+    <string name="page_setup_question_title">Please answer each security question. In case you forget the passcode, to unlock the access, you will be prompted to answer correctly at least 2 of these questions</string>
+    <string name="page_question_title">Please answer at least 2 of these questions</string>
+    <!-- Setup -->
+    <string name="setup_next_button">Next</string>
+    <string name="setup_page_password">Please take a few seconds in this wizard to initialize the settings required to access the list of your keys. You will be asked for some personal information necessary to restore the access code in case of loss.</string>
+    <string name="passwords_not_match">The passcodes do not match</string>
+    <string name="setup_button_next_text">Next ></string>
+    <string name="title_activity_password_recover">Passcode recover</string>
+    <string name="file_list_label"><b>Choose an existing files as an alternative</b>:</string>
+    <string name="answer_not_match">The answer do not match</string>
+    <string name="display_password_message">Your passcode is \"%s\"</string>
+    <string name="logon_info_text">To access the list of keys you must enter the passcode, in case you\'ve forgotten, you can use the recovery procedure <a href="#">Lost passcode</a>.</string>
+    <string name="external_storage_not_found">External storage not mounted or unavailable</string>
+    <string name="external_storage_read_only">External storage is read only!</string>
+    <string name="title_activity_open_file">Open File</string>
+    <string name="title_activity_save_file">Save As</string>
+    <string name="edit_filename_hint">Filename</string>
+    <string name="encrypt_option">Protect exported keys</string>
+    <string name="title_activity_password_request">Encrypting password</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="password_activity_info">Please fill the fields below with a password to protect the exported file</string>
+    <string name="encrypt_password">Password</string>
+    <string name="confirm_encrypt_password">Confirm password</string>
+	<string name="password_request_activity_info">Type the password used to encrypt the file</string>
+	<string name="folder_empty">This folder is empty</string>
+	<string name="change_password">Change passcode</string>
+	<string name="auth_mode">Authentication mode:</string>
+	<string name="auth_mode_password">Password</string>
+	<string name="auth_mode_pin">PIN</string>
+	<string name="change_password_succeed">Password changed successfully</string>
+	<string name="confirm_button">OK</string>
+</resources>

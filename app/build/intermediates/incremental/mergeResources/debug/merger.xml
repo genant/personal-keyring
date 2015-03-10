@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res" >
+            <file
+                name="back"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable\back.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="file"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable\file.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="folder"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable\folder.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable\icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_accept.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_cancel.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_copy"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_copy.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_discard"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_discard.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_edit.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_import_export"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_import_export.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_merge"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_merge.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_new.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_remove"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_remove.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_settings"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_settings.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_share"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_action_share.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_folder"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_folder.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_search"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_menu_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_xml_file"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-hdpi\ic_xml_file.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_accept.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_cancel.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_copy"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_copy.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_discard"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_discard.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_edit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_import_export"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_import_export.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_merge"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_merge.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_new.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_remove"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_remove.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_settings"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_settings.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_share"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_action_share.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_folder"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_folder.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_search"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_menu_search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_xml_file"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-mdpi\ic_xml_file.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_accept.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_cancel.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_copy"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_copy.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_discard"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_discard.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_edit.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_import_export"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_import_export.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_merge"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_merge.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_new.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_remove"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_remove.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_settings"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_settings.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_share"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_action_share.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_folder"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_folder.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_xml_file"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xhdpi\ic_xml_file.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_accept.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_cancel.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_copy"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_copy.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_discard"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_discard.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_edit.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_import_export"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_import_export.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_merge"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_merge.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_new.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_remove"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_remove.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_settings"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_settings.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_share"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_action_share.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_folder"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_folder.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_xml_file"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\drawable-xxhdpi\ic_xml_file.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_confirm_login"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\activity_confirm_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_login"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\activity_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_open_file"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\activity_open_file.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_password_encrypt"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\activity_password_encrypt.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_password_recover"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\activity_password_recover.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_password_request"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\activity_password_request.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_save_file"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\activity_save_file.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_setup"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\activity_setup.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="display_key"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\display_key.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="edit_key"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\edit_key.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_setup_password"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\fragment_setup_password.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_setup_questions"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\fragment_setup_questions.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_key"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\list_key.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="open_file_row"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\open_file_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="search_result"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\layout\search_result.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="display_menu"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\menu\display_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="edit_menu"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\menu\edit_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="list_menu"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\menu\list_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="login"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\menu\login.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="open_file"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\menu\open_file.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="password_request"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\menu\password_request.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="save_file"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\menu\save_file.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="setup"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\menu\setup.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <array name="letter_tile_colors" >
+                    <item>
+#f16364
+                    </item>
+                    <item>
+#f58559
+                    </item>
+                    <item>
+#f9a43e
+                    </item>
+                    <item>
+#e4c62e
+                    </item>
+                    <item>
+#67bf74
+                    </item>
+                    <item>
+#59a2be
+                    </item>
+                    <item>
+#2093cd
+                    </item>
+                    <item>
+#ad62a7
+                    </item>
+                </array>
+
+                <dimen name="letter_tile_size" >60dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="list_row_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="list_row_vertical_margin" >8dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="tile_letter_font_size" >33sp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values\security_questions.xml"
+                qualifiers="" >
+                <string-array name="security_questions_array" >
+                    <item>
+What was your childhood nickname?
+                    </item>
+                    <item>
+In what city did you meet your spouse/significant other?
+                    </item>
+                    <item>
+What is the name of your favorite childhood friend?
+                    </item>
+                    <item>
+What is the middle name of your oldest child?
+                    </item>
+                    <item>
+What is your oldest cousin\'s first and last name?
+                    </item>
+                    <item>
+What was the name of your first stuffed animal?
+                    </item>
+                    <item>
+In what city or town did your mother and father meet?
+                    </item>
+                    <item>
+Where were you when you had your first kiss?
+                    </item>
+                    <item>
+What is the first name of the boy or girl that you first kissed?
+                    </item>
+                    <item>
+What is your maternal grandmother\'s maiden name?
+                    </item>
+                    <item>
+In what city or town was your first job?
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_cancel" >Cancel
+                </string>
+                <string name="title_section1" >Passcodes
+                </string>
+                <string name="title_section2" >Security questions
+                </string>
+                <string name="invalid_decrypt_pwd" >Unable to decipher the saved password of one or more items in the chosen file, have you typed the right password?
+                </string>
+                <string name="display_password_message" >Your passcode is \"%s\"
+                </string>
+                <string name="folder_empty" >This folder is empty
+                </string>
+                <string name="deleting_title" >Confirm delete
+                </string>
+                <string name="login_progress_signing_in" >Signing in…
+                </string>
+                <string name="title_activity_password_recover" >Passcode recover
+                </string>
+                <string name="auth_mode_pin" >PIN
+                </string>
+                <string name="confirm_encrypt_password" >Confirm password
+                </string>
+                <string name="question_3_label" >Question 3:
+                </string>
+                <string name="auth_mode_password" >Password
+                </string>
+                <string name="title_activity_password_request" >Encrypting password
+                </string>
+                <string name="wellcome" >Please enter in the field below your Passcode.
+                </string>
+                <string name="action_sign_in_register" ><b>
+Sign in
+                    </b></string>
+                <string name="title_activity_insert_key" >Insert new personal key
+                </string>
+                <string name="prompt_password" >Passcode
+                </string>
+
+                <plurals name="browse_results" >
+                    <item quantity="one">
+%1$d item in your keyring 
+                    </item>
+                    <item quantity="other">
+%1$d items are stored in your keyring
+                    </item>
+                </plurals>
+
+                <string name="action_sign_in_short" >Sign in
+                </string>
+                <string name="import_xml" >Import from file
+                </string>
+                <string name="answer_not_match" >The answer do not match
+                </string>
+                <string name="export_xml" >Export to file
+                </string>
+                <string name="password_field" >Type a passcode
+                </string>
+                <string name="edit_filename_hint" >Filename
+                </string>
+                <string name="question_1_label" >Question 1:
+                </string>
+                <string name="page_setup_question_title" >Please answer each security question. In case you forget the passcode, to unlock the access, you will be prompted to answer correctly at least 2 of these questions
+                </string>
+                <string name="action_save" >Save
+                </string>
+                <string name="error_incorrect_password" >This passcode is incorrect
+                </string>
+                <string name="password_request_activity_info" >Type the password used to encrypt the file
+                </string>
+                <string name="confirm_password_field" >Confirm passcode
+                </string>
+                <string name="setup_page_password" >Please take a few seconds in this wizard to initialize the settings required to access the list of your keys. You will be asked for some personal information necessary to restore the access code in case of loss.
+                </string>
+                <string name="answer_field" >Type your answer
+                </string>
+                <string name="title_activity_open_file" >Open File
+                </string>
+                <string name="action_copy_password" >Copy password
+                </string>
+                <string name="invalid_master_key" >Unable to decipher the saved password, please close the application and try again!
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="page_question_title" >Please answer at least 2 of these questions
+                </string>
+                <string name="title_activity_list" >Keyring list
+                </string>
+                <string name="lost_password_text" ><a href="#" >
+Lost passcode?
+                    </a></string>
+                <string name="edit_password_hint" >Password
+                </string>
+                <string name="password_activity_info" >Please fill the fields below with a password to protect the exported file
+                </string>
+                <string name="deleting_message" >This key will be deleted
+                </string>
+                <string name="edit_name_hint" >Key name
+                </string>
+                <string name="title_activity_setup" >Setup
+                </string>
+                <string name="error_field_required" >This field is required
+                </string>
+                <string name="title_activity_display_key" >View key details
+                </string>
+                <string name="change_password" >Change passcode
+                </string>
+                <string name="title_activity_edit_key" >Edit key
+                </string>
+                <string name="encrypt_password" >Password
+                </string>
+                <string name="question_2_label" >Question 3:
+                </string>
+                <string name="confirm_button" >OK
+                </string>
+                <string name="search_label" >Keys
+                </string>
+                <string name="setup_button_next_text" >Next >
+                </string>
+                <string name="auth_mode" >Authentication mode:
+                </string>
+                <string name="invalid_password" >Invalid password
+                </string>
+                <string name="error_invalid_password" >This passcode is too short
+                </string>
+
+                <plurals name="search_results" >
+                    <item quantity="one">
+%1$d result for \"%2$s\": 
+                    </item>
+                    <item quantity="other">
+%1$d results for \"%2$s\": 
+                    </item>
+                </plurals>
+
+                <string name="encrypt_option" >Protect exported keys
+                </string>
+                <string name="external_storage_read_only" >External storage is read only!
+                </string>
+                <string name="logon_info_text" >To access the list of keys you must enter the passcode, in case you\'ve forgotten, you can use the recovery procedure 
+<a href="#" >
+Lost passcode
+                    </a>.
+                </string>
+                <string name="no_results" >No results found for \"%s\"
+                </string>
+                <string name="action_share" >Share
+                </string>
+                <string name="quit_app" >Close application
+                </string>
+                <string name="search_hint" >Search the key
+                </string>
+                <string name="file_list_label" ><b>
+Choose an existing files as an alternative
+                    </b>:
+                </string>
+                <string name="passwords_not_match" >The passcodes do not match
+                </string>
+                <string name="external_storage_not_found" >External storage not mounted or unavailable
+                </string>
+                <string name="change_password_succeed" >Password changed successfully
+                </string>
+                <string name="edit_word" >Edit
+                </string>
+                <string name="title_activity_save_file" >Save As
+                </string>
+                <string name="menu_search" >Search
+                </string>
+                <string name="edit_username_hint" >Username
+                </string>
+                <string name="add_new" >Add new
+                </string>
+                <string name="wellcome_instructions" >Your keyring database is empty. Use the add button to create a new entry or
+        import the keys from an existing file.
+                </string>
+                <string name="settings_description" >Definitions of words
+                </string>
+                <string name="app_name" >Personal keyring
+                </string>
+                <string name="delete_word" >Remove
+                </string>
+                <string name="action_ok" >OK
+                </string>
+                <string name="action_forgot_password" >Recover lost passcode
+                </string>
+                <string name="title_activity_login" >Sign in
+                </string>
+                <string name="setup_next_button" >Next
+                </string>
+                <string name="edit_note_hint" >Notes
+                </string>
+            </file>
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values\strings_activity_import_settings.xml"
+                qualifiers="" >
+                <string name="pref_clean_before_start" >Remove keys before
+                </string>
+
+                <string-array name="pref_duplicate_key_option_values" >
+                    <item>
+1
+                    </item>
+                    <item>
+0
+                    </item>
+                    <item>
+-1
+                    </item>
+                </string-array>
+
+                <string name="pref_duplicate_key_action" >Duplicated key names
+                </string>
+                <string name="pref_clean_before_start_recommendations" >Remove existing keys before import from new file.
+                </string>
+                <string name="title_activity_import_settings" >Settings
+                </string>
+                <string name="pref_header_general" >General
+                </string>
+
+                <string-array name="pref_duplicate_key_options" >
+                    <item>
+Override
+                    </item>
+                    <item>
+Merge
+                    </item>
+                    <item>
+Ignore
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="headerStyle"
+                    parent="android:Widget.Holo.Light.TextView" >
+
+                    <!-- <item name="android:background">@android:drawable/title_bar_tall</item> -->
+                    <item name="android:textColor">
+?android:textColorPrimary
+                    </item>
+                    <item name="android:textSize">
+25sp
+                    </item>
+                    <item name="android:padding">
+5dp
+                    </item>
+                </style>
+
+                <style name="fieldSetStyle" >
+                    <item name="android:background">
+@android:drawable/dialog_holo_light_frame
+                    </item>
+                </style>
+
+                <style name="LoginFormContainer" >
+                    <item name="android:layout_width">
+match_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:padding">
+16dp
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values-it\security_questions.xml"
+                qualifiers="it" >
+                <string-array name="security_questions_array" >
+                    <item>
+Qual era il tuo soprannome di infanzia?
+                    </item>
+                    <item>
+In quale città hai conosciuto il tuo coniuge / compagno?
+                    </item>
+                    <item>
+Qual è il nome del tuo amico d\'infanzia preferito?
+                    </item>
+                    <item>
+Qual è il secondo nome di tuo figlio maggiore?
+                    </item>
+                    <item>
+Qual è il nome e cognome del tuo cugino più vecchio?
+                    </item>
+                    <item>
+Qual era il nome del tuo primo animale di pezza?
+                    </item>
+                    <item>
+In quale città o paese tua madre e tuo padre si incontrarono?
+                    </item>
+                    <item>
+Dov\'eri quando hai avuto il tuo primo bacio?
+                    </item>
+                    <item>
+Qual è il nome del ragazzo o la ragazza che del tuo primo bacio?
+                    </item>
+                    <item>
+Qual è il nome da nubile di tua nonna materna?
+                    </item>
+                    <item>
+In quale città o paese hai trovato il tuo primo lavoro?
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values-it\strings.xml"
+                qualifiers="it" >
+                <string name="edit_note_hint" >Note
+                </string>
+                <string name="edit_password_hint" >Password
+                </string>
+                <string name="action_share" >Share
+                </string>
+                <string name="logon_info_text" >Per accedere all\'elenco delle chiavi è necessario digitare il passcode, nel caso in cui lo avessi dimenticato puoi utilizzare la procedura di recupero passcode utilizzando il comando 
+<a href="#" >
+Passcode dimenticato
+                    </a>.
+                </string>
+                <string name="error_incorrect_password" >Passcode non valido
+                </string>
+                <string name="change_password_succeed" >La password è stata modificata correttamente
+                </string>
+                <string name="auth_mode_password" >Password
+                </string>
+                <string name="password_request_activity_info" >Inserisci la password per decifrare il file
+                </string>
+                <string name="export_xml" >Esporta
+                </string>
+                <string name="error_field_required" >Questo campo è obbligatorio
+                </string>
+                <string name="edit_name_hint" >Nome chiave
+                </string>
+                <string name="title_activity_display_key" >Dettagli
+                </string>
+                <string name="question_2_label" >Domanda 2:
+                </string>
+                <string name="question_1_label" >Domanda 1:
+                </string>
+                <string name="wellcome_instructions" >Il tuo portachiavi è vuoto, usa il pulsante Aggiungi per creare una nuova chiave 
+    oppure importa le chiavi da un file esistente.
+                </string>
+                <string name="question_3_label" >Domanda 3:
+                </string>
+                <string name="edit_filename_hint" >Nome dile
+                </string>
+                <string name="auth_mode_pin" >PIN
+                </string>
+                <string name="setup_page_password" >In questa breve procedura guidata, ti verranno richiesti il codice di accesso a questa applicazione (Passcode) e alcune domande e risposte personali. Seleziona le domande più adatte a te perché ti verranno riproposte durante una eventuale procedura sblocco.
+                </string>
+                <string name="encrypt_option" >Proteggi le password esportate
+                </string>
+                <string name="error_invalid_password" >Il passcode è troppo breve
+                </string>
+                <string name="action_save" >Conferma
+                </string>
+                <string name="action_cancel" >Annulla
+                </string>
+                <string name="confirm_button" >OK
+                </string>
+                <string name="action_settings" >Impostazioni
+                </string>
+                <string name="confirm_encrypt_password" >Conferma password
+                </string>
+                <string name="answer_not_match" >La risposta non è esatta
+                </string>
+                <string name="password_activity_info" >Compila i campi seguenti con la password da utilizzare per proteggere le chiavi esportate nel file
+                </string>
+                <string name="folder_empty" >Questa cartella è vuota
+                </string>
+                <string name="login_progress_signing_in" >Accesso in corso…
+                </string>
+                <string name="invalid_decrypt_pwd" >Impossibile decifrare la password di una o più voci memorizzare nel file selezionato, hai indicato la stessa password utilizzata per cifrare il file?
+                </string>
+                <string name="external_storage_not_found" >La scheda SD non è presente o non collegata
+                </string>
+                <string name="title_activity_setup" >Setup
+                </string>
+                <string name="add_new" >Aggiungi
+                </string>
+                <string name="no_results" >Nessuna chiave corrispondente a: \"%s\"
+                </string>
+                <string name="delete_word" >Elimina
+                </string>
+                <string name="title_activity_open_file" >Apri file
+                </string>
+                <string name="answer_field" >Specificare una risposta
+                </string>
+                <string name="title_activity_insert_key" >Nuova chiave
+                </string>
+                <string name="lost_password_text" ><a href="#" >
+Passcode dimenticato?
+                    </a></string>
+                <string name="title_section2" >Domande segrete
+                </string>
+                <string name="quit_app" >Esci
+                </string>
+                <string name="title_section1" >Passcode
+                </string>
+                <string name="change_password" >Modifica passcode
+                </string>
+                <string name="encrypt_password" >Password
+                </string>
+                <string name="invalid_master_key" >Impossibile decriptare la password di questa chiave, riprovare rieseguendo la login!
+                </string>
+                <string name="external_storage_read_only" >La scheda SD è in sola lettura!
+                </string>
+                <string name="title_activity_password_recover" >Recupero passcode
+                </string>
+                <string name="action_sign_in_short" >Accedi
+                </string>
+                <string name="file_list_label" ><b>
+In alternativa seleziona un file esistente
+                    </b>:
+                </string>
+                <string name="title_activity_save_file" >Salva con nome
+                </string>
+                <string name="title_activity_edit_key" >Modifica
+                </string>
+                <string name="display_password_message" >Il tuo passcode è \"%s\"
+                </string>
+                <string name="search_hint" >Ricerca chiavi
+                </string>
+                <string name="deleting_message" >Questa chiave sarà rimossa definitivamente
+                </string>
+                <string name="edit_word" >Modifica
+                </string>
+                <string name="page_setup_question_title" >Per fafore indica una risposta per ogni domanda. Nel caso in cui dovessi dimenticare il tuo passcode, la procedura di sblocco ti chiederà di rispondere correttamente ad almeno 2 delle domande scelte.
+                </string>
+                <string name="page_question_title" >Per favore indica almeno 2 risposte alle domande seguenti
+                </string>
+                <string name="action_sign_in_register" ><b>
+Accedi
+                    </b></string>
+                <string name="prompt_password" >Passcode
+                </string>
+
+                <plurals name="browse_results" >
+                    <item quantity="one">
+%1$d chiave presente nel portachiavi 
+                    </item>
+                    <item quantity="other">
+%1$d chiavi memorizzate nel portachiavi
+                    </item>
+                </plurals>
+
+                <string name="search_label" >Chiavi
+                </string>
+                <string name="action_forgot_password" >Passcode dimenticato
+                </string>
+                <string name="password_field" >Inserisci un passcode
+                </string>
+                <string name="title_activity_login" >Accesso
+                </string>
+                <string name="settings_description" >Impostazioni della ricerca
+                </string>
+                <string name="title_activity_list" >Elenco chiavi
+                </string>
+
+                <plurals name="search_results" >
+                    <item quantity="one">
+Trovata %1$d chiace con \"%2$s\": 
+                    </item>
+                    <item quantity="other">
+Trovate %1$d chiavi con \"%2$s\": 
+                    </item>
+                </plurals>
+
+                <string name="deleting_title" >Conferma eliminazione
+                </string>
+                <string name="invalid_password" >Password non valida
+                </string>
+                <string name="passwords_not_match" >I due passcode non coincidono
+                </string>
+                <string name="setup_next_button" >Avanti
+                </string>
+                <string name="title_activity_password_request" >Crittografia password
+                </string>
+                <string name="menu_search" >Cerca
+                </string>
+                <string name="confirm_password_field" >Conferma passcode
+                </string>
+                <string name="setup_button_next_text" >Avanti >
+                </string>
+                <string name="edit_username_hint" >Username
+                </string>
+                <string name="import_xml" >Importa da file
+                </string>
+                <string name="wellcome" >Inserisci il tuo Passcode nel campo seguente.
+                </string>
+                <string name="action_copy_password" >Copia password
+                </string>
+                <string name="auth_mode" >Modalità di autenticazione:
+                </string>
+            </file>
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values-it\strings_activity_import_settings.xml"
+                qualifiers="it" >
+                <string name="title_activity_import_settings" >Opzioni
+                </string>
+                <string name="pref_duplicate_key_action" >Voci già presenti
+                </string>
+
+                <string-array name="pref_duplicate_key_options" >
+                    <item>
+Sovrascrivi
+                    </item>
+                    <item>
+Unisci
+                    </item>
+                    <item>
+Ignora e passa al successivo
+                    </item>
+                </string-array>
+
+                <string name="pref_clean_before_start" >Rimozione chiavi
+                </string>
+                <string name="pref_header_general" >Generale
+                </string>
+                <string name="pref_clean_before_start_recommendations" >Rimuove tutte le chiavi esistenti nel database prima di importare il nuovo file.
+                </string>
+            </file>
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values-large\styles.xml"
+                qualifiers="large-v4" >
+
+                <style name="LoginFormContainer" >
+                    <item name="android:layout_width">
+400dp
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:layout_gravity">
+center
+                    </item>
+                    <item name="android:padding">
+16dp
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                name="pref_general"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\xml\pref_general.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="pref_headers"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\xml\pref_headers.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="searchable"
+                path="C:\Users\Antonello\java\PersonalKeyring2\app\src\main\res\xml\searchable.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="C:\Users\Antonello\java\PersonalKeyring2\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Antonello\java\PersonalKeyring2\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Antonello\java\PersonalKeyring2\app\src\debug\res" />
+    </dataSet>
+
+</merger>
